@@ -1,0 +1,3 @@
+amigo1@example.com
+amigo2@example.com
+amigo3@example.com
